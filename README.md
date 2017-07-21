@@ -17,3 +17,6 @@ Some example image pairs are included in this package.
 ![example-bw](https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-bw.bmp) 
 ![example-c](https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-c.bmp) 
 ![example-ours](https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-ours.bmp)
+
+### Collaborators
+Lordique Fok, Yini Qi, Chandani Doshi
