@@ -14,4 +14,4 @@ Eg.
 
 Some example image pairs are included in this package.
 
-(https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-bw.bmp) (https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-c.bmp) (https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-ours.bmp)
+![example-bw] (https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-bw.bmp) ![example-c] (https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-c.bmp) ![example-ours] (https://github.com/chandanidoshi/6.819-finalproject/blob/master/example3-ours.bmp)
